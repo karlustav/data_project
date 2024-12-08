@@ -1,0 +1,17 @@
+# Model files
+*.keras
+*.h5
+*.joblib
+*.pkl
+*.pickle
+*.model
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE
+.DS_Store
+.idea/
+.vscode/
