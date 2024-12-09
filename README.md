@@ -37,13 +37,13 @@
   - Sample submission format
 
 ### Miscellaneous
-- `misc just in case/`: Backup implementations and utility files
+- `misc/`: Backup implementations and utility files
   - Various test implementations
   - Configuration files
   - Requirements and dependencies
 
 ## Model Architecture
-The final model (`tf_model_final.ipynb`) implements:
+The final model (`tf_model_14.ipynb`) implements:
 - Deep neural network with attention mechanism
 - Residual connections
 - Batch normalization
