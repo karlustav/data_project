@@ -9,7 +9,7 @@
 
 ## Repository Structure
 
-### Data Processing
+### Data Processing (part of Miscellaneous)
 - `prepare_and_explore/`
   - `init_data_exploration.ipynb`: Initial data analysis and visualization
   - `prepare_data.ipynb`: Training data preprocessing pipeline
@@ -20,7 +20,8 @@
 - `learn/`
   - `models.ipynb`: Traditional ML models (Random Forest, XGBoost, etc.)
   - `deeplearn/`
-    - `tf_model_final.ipynb`: Final TensorFlow deep learning implementation
+    - `tf_model_14.ipynb`: Final TensorFlow deep learning implementation
+    - `tf_model_v{x}.ipynb`: Version x of TensorFlow deep learning implementation
     - `tf_model.ipynb`: Initial deep learning experiments
     - `tf_model_v2.py`: Python script version of the model
 
@@ -59,7 +60,7 @@ The final model (`tf_model_final.ipynb`) implements:
 
 ### Training
 1. For traditional ML: Run `learn/models.ipynb`
-2. For deep learning: Run `learn/deeplearn/tf_model_final.ipynb`
+2. For deep learning: Run `learn/deeplearn/tf_model_14.ipynb`
 
 ### Generating Predictions
 The models will automatically save predictions to the `submissions/` directory.
