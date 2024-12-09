@@ -1,4 +1,4 @@
-# Depression Prediction with Data Science
+# Exploring Mental Health Data
 - The primary goal of this project is to develop a machine learning-based predictive model that identifies individuals at risk of depression using demographic and lifestyle data.
 
 ## Team members
